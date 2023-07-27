@@ -1,1 +1,17 @@
-# hamburguesa sencilla con papas fritas
+# preparacion hamburguesa sencilla con papas fritas
+
+Comanda #1
+
+1. una hamburguesa sencilla
+2. adicional porcion de papas fritas
+
+
+ # Ingredientes 
+ 1. 125 gr de carne molida.
+ 2. queso mozarella
+ 3. tomate
+ 4. cebolla
+ 5. lechuga
+ 6. jamon o mortadela
+ 7. salsas
+ 8. porcion de papas
