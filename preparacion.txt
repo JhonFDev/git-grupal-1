@@ -1,3 +1,14 @@
+<<<<<< Juan-Uribe
+# hamburguesa sencilla con papas fritas
+1.  preparacion
+2.  ponerle en su recipiente
+3.  organizar las salsas a preferncia
+4.  poner una envoltura
+5.  acompñarcon una gaseosa
+6.  un bazo con hielo
+
+-Juan Uribe
+=======
 
 # hamburguesa sencilla con papas fritas
 
@@ -6,6 +17,9 @@
 3. Mezclamos los ingredientes con la carne
 4. Coccion de la carne en aceite por 10 minutos
 5. Prepara a tu gusto la hamburguesa con lechuga, tomate, bacon o como tu quieras
+
+-Abner
+=======
 
 # preparacion hamburguesa sencilla con papas fritas
 
@@ -25,3 +39,4 @@ Comanda #1
  7. salsas
  8. porcion de papas
 
+>>>>>> master
