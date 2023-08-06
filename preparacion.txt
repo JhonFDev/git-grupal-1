@@ -40,3 +40,15 @@ Comanda #1
  8. porcion de papas
 
 >>>>>> master
+
+
+ingredientes-jary
+
+1. Pan artesanal
+2. carne
+3. Tocineta
+4. cebolla caramelizada
+5. tomate
+6. salsas
+7. Ripio de papas
+8 papas a la francesa
